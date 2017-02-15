@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying the header1
+ * The template for displaying the header2
  *
  * Displays all of the head element and everything up until the "site-content" div.
  *

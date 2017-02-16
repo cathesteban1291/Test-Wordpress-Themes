@@ -1,7 +1,7 @@
 <?php
 /**
  * The template for displaying the header2
- *
+ * second
  * Displays all of the head element and everything up until the "site-content" div.
  *
  * @package WordPress
